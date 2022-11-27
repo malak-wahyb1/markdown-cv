@@ -21,7 +21,7 @@
 
 > ### About me 
  ```
- I am a Fullstack developers, my sign is that I am committed to completing the task to the best of my ability.
+ I am a Fullstack developer, my sign is that I am committed to completing the task to the best of my ability.
  My goal is to put my previously gained and developed talents from my academic and social experiences into practice.
 ```
 
@@ -29,11 +29,11 @@
 ```
 INSTUTE TECHNIQUE OF ORTHODOX 
 2018 - 2019
-License technical in informational administrative programming branch 
+License technical in IT
 
 Rafic al hariri high school 
 2015 - 2016
-Bac2 science general 
+Bac2 SG 
 
 ```
 > ### Work experiences
